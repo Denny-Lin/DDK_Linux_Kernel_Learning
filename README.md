@@ -3,3 +3,4 @@ Choose long term support (LTS) version.
 
 # References
 1. https://source.android.com/devices/architecture/kernel/android-common
+2. https://www.kernel.org/
