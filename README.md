@@ -1,5 +1,5 @@
 # DDK_Linux_Kernel_Learning
-Choose long term support (LTS) version.
+Choose the long term support (LTS) version on an Android device.
 
 # References
 1. https://www.kernel.org/
