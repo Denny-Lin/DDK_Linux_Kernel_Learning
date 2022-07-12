@@ -6,3 +6,4 @@ Choose the long term support (LTS) version on an Android device.
 2. https://source.android.com/devices/architecture/kernel/android-common
 3. https://source.android.com/devices/architecture/kernel/generic-kernel-image
 4. https://0xax.gitbooks.io/linux-insides/content/
+5. https://elixir.bootlin.com/linux/latest/source
