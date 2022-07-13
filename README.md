@@ -1,6 +1,11 @@
 # DDK_Linux_Kernel_Learning
 Choose the long term support (LTS) version on an Android device.
 
+# Prerequisites
+Read https://www.kernel.org/doc/html/latest/process/howto.html#process-howto </br>
+
+# ...
+
 # References
 1. https://www.kernel.org/
 2. https://source.android.com/devices/architecture/kernel/android-common
