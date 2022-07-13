@@ -2,7 +2,7 @@
 Choose the long term support (LTS) version on an Android device.
 
 # Prerequisites
-Read https://www.kernel.org/doc/html/latest/process/howto.html#process-howto </br>
+Read https://www.kernel.org/doc/html/latest/process/howto.html#process-howto. </br>
 
 # ...
 
