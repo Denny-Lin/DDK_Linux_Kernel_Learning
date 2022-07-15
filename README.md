@@ -16,7 +16,14 @@ On Android 12, 13 and later devices with kernel 5.10, Google uses GKI 2.0. </br>
 
 # Let us get started
 I will choose android13-5.10 and learn it. </br> 
-For other kernel versions (branches), please refer to https://android.googlesource.com/kernel/common/. </br> 
+For other kernel versions (branches), please refer to https://android.googlesource.com/kernel/manifest/+refs. </br> 
+So first, download it by the following commands.
+
+```sh
+mkdir android-kernel && cd android-kernel
+repo init -u https://android.googlesource.com/kernel/manifest -b common-android13-5.10-lts
+repo sync
+```
 
 # References
 1. https://www.kernel.org/
