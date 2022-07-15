@@ -2,12 +2,13 @@
 Choose the long term support (LTS) version on an Android device.
 
 # Prerequisites
-Read https://www.kernel.org/doc/html/latest/process/howto.html#process-howto. </br>
+1. Read https://www.kernel.org/doc/html/latest/process/howto.html#process-howto. </br>
 
 # GKI
 ... </br>
 ## GKI 1.0
-We know Android 11 had different kernel versions, e.g., android-4.14-stable, android-4.19-stable, android11-5.4, ... referred to https://source.android.com/devices/architecture/kernel/android-common, compatibility matrix. </br>
+We know Android 11 had different kernel versions, e.g., android-4.9-q, android-4.14-stable, android-4.19-stable, android11-5.4. </br>
+Refer to https://source.android.com/devices/architecture/kernel/android-common, compatibility matrix. </br>
 However, since android11-5.4, we have started using the generic kernel image 1.0 (GKI 1.0). </br>
 It means Android 11, 12, 13 and later devices with kernel 5.4 use GKI 1.0. </br>
 
@@ -16,6 +17,7 @@ On Android 12, 13 and later devices with kernel 5.10, we use GKI 2.0. </br>
 
 # Let us get started
 I will choose android13-5.10 and learn it. </br> 
+For other kernel versions (branches), please refer to https://android.googlesource.com/kernel/common/. </br> 
 
 # References
 1. https://www.kernel.org/
