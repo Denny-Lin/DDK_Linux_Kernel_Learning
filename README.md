@@ -3,6 +3,7 @@ Choose the long term support (LTS) version on an Android device.
 
 # Prerequisites
 1. Read https://www.kernel.org/doc/html/latest/process/howto.html#process-howto. </br>
+2. Read https://www.linuxfromscratch.org/lfs/read.html. </br>
 
 # GKI
 ... </br>
