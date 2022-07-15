@@ -16,7 +16,7 @@ It means Android 11, 12, 13 and later devices with kernel 5.4 use GKI 1.0. </br>
 On Android 12, 13 and later devices with kernel 5.10, Google uses GKI 2.0. </br>
 
 # Let us get started
-I will choose android13-5.10 and learn it. </br> 
+I chose android13-5.10. </br> 
 For other kernel versions (branches), please refer to https://android.googlesource.com/kernel/manifest/+refs. </br> 
 So first, download it by the following commands.
 
