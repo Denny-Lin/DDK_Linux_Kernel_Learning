@@ -6,7 +6,7 @@ Choose the long term support (LTS) version on an Android device.
 2. Read https://www.linuxfromscratch.org/lfs/read.html. </br>
 
 # GKI
-Linux kernel is to kernel module what GKI is to vendor specific (vendor modules). </br>
+Linux kernel is to kernel modules what GKI is to vendor specific (vendor modules). </br>
 
 ## GKI 1.0
 We know Android 11 had different kernel versions, e.g., android-4.9-q, ..., android-4.19-stable and android11-5.4. </br>
