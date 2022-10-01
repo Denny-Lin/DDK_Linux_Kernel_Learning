@@ -14,7 +14,7 @@ However, since android11-5.4, Google has started using the generic kernel image 
 It means Android 11, 12, 13 and later devices with kernel 5.4 are GKI 1.0. </br>
 
 ## GKI 2.0
-Android 12, 13 and later devices with kernel 5.10 are GKI 2.0. </br>
+Android 12, 13 and later devices with kernel >= 5.10 are GKI 2.0. </br>
 
 # Let us get started
 Here, I choose android13-5.10. </br> 
